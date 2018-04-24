@@ -1,4 +1,4 @@
-# Vagrant Felder WebDev Box
+# Vagrant Pimcore Dev Box
 
 Installs MySQL, PHP, and latest Pimcore.
 Pimcore is ready to go after set up.
